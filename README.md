@@ -1,20 +1,25 @@
 # Sean McRae
 
-Technical product manager in Toronto with 9+ years building AI and data products: agentic and RAG search, machine-learning risk models in fintech, and AI transformation programs. I care about shipping AI that is measured, explainable, and cheap enough to run.
+AI product leader in Toronto. 9+ years in product management, building AI and data products: agentic and RAG search, machine-learning risk models in fintech, and AI transformation programs. I ship AI that is **measured, explainable, and cheap enough to run**.
 
-These repositories are independent portfolio projects. Each one runs end to end without API keys, ships with tests and CI, and includes a product write-up (`docs/PRODUCT.md`) covering the problem, users, scope, success metrics, trade-offs, and roadmap.
+Open to Director of Product, AI PM and AI strategy roles (Toronto or remote, Canada), and select advisory work.
+
+## Start here
+
+- **[ragbench](https://github.com/seanmcrae/ragbench)**: choose a RAG or agentic-search configuration on evidence (retrieval quality, faithfulness, latency and cost per query), with a recommended config under a budget. [Live report](https://seanmcrae.github.io/ragbench/)
+- **[llm-gateway](https://github.com/seanmcrae/llm-gateway-cost-aware-LLM-router-)**: route each LLM request to the cheapest model tier that meets its quality, budget and latency bar. 65% cheaper than always-premium in its replay benchmark. [Docs](https://seanmcrae.github.io/llm-gateway-cost-aware-LLM-router-/)
 
 ## Projects
 
-| Project | What it does | Stack | Docs |
-| --- | --- | --- | --- |
-| [ragbench](https://github.com/seanmcrae/ragbench) | Evaluation harness for RAG and agentic search: retrieval metrics, answer faithfulness, latency, and cost per query, with a recommended config under a budget. | Python | [Docs](https://seanmcrae.github.io/ragbench/) |
-| [credit-risk-explain](https://github.com/seanmcrae/credit-risk-explain) | Explainable default-risk ranking on public UCI credit data: gradient boosting, SHAP reason codes, calibration, fairness slices, and a model card. | Python, LightGBM, SHAP, Streamlit | [Docs](https://seanmcrae.github.io/credit-risk-explain/) |
-| [agent-harness](https://github.com/seanmcrae/agent-harness) | Runtime for tool-using LLM agents with guardrails, budgets, tracing, and scenario evals. Claude or OpenAI, or a mock provider offline. | Python | [Docs](https://seanmcrae.github.io/agent-harness/) |
-| [workflow-radar](https://github.com/seanmcrae/workflow-radar) | AI-opportunity audit for business workflows: friction and AI-suitability scoring, ROI with uncertainty, and a phased roadmap. | TypeScript | [Docs](https://seanmcrae.github.io/workflow-radar/) |
-| [plg-metrics](https://github.com/seanmcrae/plg-metrics) | Product-led growth analytics: funnels, cohort retention, and A/B experiment analysis with CUPED, SRM checks, and power calculations. | Python, DuckDB, Streamlit | [Docs](https://seanmcrae.github.io/plg-metrics/) |
-| [prd-to-backlog](https://github.com/seanmcrae/prd-to-backlog) | Turns a PRD into a reviewable backlog of epics, stories, and acceptance criteria, with quality linting and Jira or Linear export. | TypeScript | [Docs](https://seanmcrae.github.io/prd-to-backlog/) |
-| [llm-gateway](https://github.com/seanmcrae/llm-gateway-cost-aware-LLM-router-) | Cost-aware, OpenAI-compatible LLM gateway: routes across model tiers by complexity, budget and latency SLO; 65% cheaper than always-premium in its replay benchmark. | TypeScript | [Docs](https://seanmcrae.github.io/llm-gateway-cost-aware-LLM-router-/) |
+| Project | What it shows | Live |
+| --- | --- | --- |
+| [agent-harness](https://github.com/seanmcrae/agent-harness) | Agents inside budgets, guardrails and approvals you can test in CI | [Docs](https://seanmcrae.github.io/agent-harness/) |
+| [credit-risk-explain](https://github.com/seanmcrae/credit-risk-explain) | Calibrated, explainable credit-risk ranking with SHAP reason codes, fairness slices and a model card | [Docs](https://seanmcrae.github.io/credit-risk-explain/) |
+| [workflow-radar](https://github.com/seanmcrae/workflow-radar) | Ranking AI opportunities by measured friction, suitability and Monte Carlo ROI | [Docs](https://seanmcrae.github.io/workflow-radar/) |
+| [prd-to-backlog](https://github.com/seanmcrae/prd-to-backlog) | PRD to a traceable, linted backlog, exported to GitHub Issues, Jira or Linear | [Docs](https://seanmcrae.github.io/prd-to-backlog/) |
+| [plg-metrics](https://github.com/seanmcrae/plg-metrics) | A/B readouts that resist misreading: CUPED, SRM checks, power, retention | [Docs](https://seanmcrae.github.io/plg-metrics/) |
+
+Each repo runs end to end without API keys, ships with tests and CI, and includes a product brief (`docs/PRODUCT.md`): problem, users, scope, success metrics, trade-offs, roadmap. Built in public from October 2026 with AI-assisted coding; the product decisions, evals and trade-offs are mine.
 
 ## How I work
 
