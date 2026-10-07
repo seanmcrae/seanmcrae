@@ -13,6 +13,7 @@ Open to Director of Product, AI PM and AI strategy roles (Toronto or remote, Can
 
 | Project | What it shows | Live |
 | --- | --- | --- |
+| [pocketbrains-app](https://github.com/seanmcrae/pocketbrains-app) | Privacy-first iOS agent: 13 tools on-device, Apple Foundation Models with an MLX and deterministic-parser fallback, eval-gated in CI | [Code](https://github.com/seanmcrae/pocketbrains-app) |
 | [agent-harness](https://github.com/seanmcrae/agent-harness) | Agents inside budgets, guardrails and approvals you can test in CI | [Docs](https://seanmcrae.github.io/agent-harness/) |
 | [credit-risk-explain](https://github.com/seanmcrae/credit-risk-explain) | Calibrated, explainable credit-risk ranking with SHAP reason codes, fairness slices and a model card | [Docs](https://seanmcrae.github.io/credit-risk-explain/) |
 | [workflow-radar](https://github.com/seanmcrae/workflow-radar) | Ranking AI opportunities by measured friction, suitability and Monte Carlo ROI | [Docs](https://seanmcrae.github.io/workflow-radar/) |
