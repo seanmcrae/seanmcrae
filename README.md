@@ -13,7 +13,7 @@ Open to Director of Product, AI PM and AI strategy roles (Toronto or remote, Can
 
 | Project | What it shows | Live |
 | --- | --- | --- |
-| [pocketbrains-app](https://github.com/seanmcrae/pocketbrains-app) | Privacy-first on-device iOS agent: multi-step plans with undo, cited Q&A over your notes, Siri, Shortcuts and a widget; 24 tools, 112 tests, eval-gated in CI. Held-out paraphrase routing 11.8% to 38.2% | [v0.2.0](https://github.com/seanmcrae/pocketbrains-app/releases/tag/v0.2.0) |
+| [pocketbrains-app](https://github.com/seanmcrae/pocketbrains-app) | Privacy-first on-device iOS agent: multi-step plans with undo, cited Q&A over your notes, Siri, Shortcuts and a widget; 129 tests, eval-gated in CI. On a frozen held-out paraphrase set, routing went from 30.2% to 39.6%. Notes Q&A: 96.7% recall@3, every citation verified | [Docs](https://seanmcrae.github.io/pocketbrains-app/) · [v0.3.0](https://github.com/seanmcrae/pocketbrains-app/releases/tag/v0.3.0) |
 | [agent-harness](https://github.com/seanmcrae/agent-harness) | Agents inside budgets, guardrails and approvals you can test in CI | [Docs](https://seanmcrae.github.io/agent-harness/) |
 | [credit-risk-explain](https://github.com/seanmcrae/credit-risk-explain) | Calibrated, explainable credit-risk ranking with SHAP reason codes, fairness slices and a model card | [Docs](https://seanmcrae.github.io/credit-risk-explain/) |
 | [workflow-radar](https://github.com/seanmcrae/workflow-radar) | Ranking AI opportunities by measured friction, suitability and Monte Carlo ROI | [Docs](https://seanmcrae.github.io/workflow-radar/) |
