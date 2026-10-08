@@ -4,7 +4,7 @@
 
 AI product leader in Toronto. 9+ years in product management, building AI and data products: agentic and RAG search, machine-learning risk models in fintech, and AI transformation programs. Open to Director of Product, AI PM and AI strategy roles (Toronto or remote, Canada).
 
-<!-- CONTACT PLACEHOLDER: site, LinkedIn, email, X and any "Previously:" credential line go here once Sean approves them. -->
+**Previously:** Product Manager, GenAI & ML at Upland Software (rebuilt keyword search into an agentic search platform) · Technical PM, AI & ML at Canaccede Financial (ML debt-recovery ranking) · Director of Product Management at CTO Bees Inc. (formerly Data Naya). Now advising B2B teams on AI workflows at Fascia Labs.
 
 ## Work
 
