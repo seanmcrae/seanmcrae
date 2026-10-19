@@ -2,9 +2,9 @@
 
 **I ship AI that is measured, explainable, and cheap enough to run.**
 
-AI product leader in Toronto. 9+ years in product management, building AI and data products: agentic and RAG search, machine-learning risk models in fintech, and AI transformation programs. Open to Director of Product, AI PM and AI strategy roles (Toronto or remote, Canada).
+Senior Product Manager for AI and data products in Toronto. 9+ years in product: agentic and RAG search, ML risk models in fintech, and the evaluation bars that keep AI features worth their cost. Open to PM and Senior PM roles on AI, search, data and platform products (Toronto or remote, Canada). Portfolio and résumé: [seanmcrae.github.io](https://seanmcrae.github.io/).
 
-**Previously:** Product Manager, GenAI & ML at Upland Software (rebuilt keyword search into an agentic search platform) · Technical PM, AI & ML at Canaccede Financial (ML debt-recovery ranking) · Director of Product Management at CTO Bees Inc. (formerly Data Naya). Now advising B2B teams on AI workflows at Fascia Labs.
+**Now:** Product Manager, GenAI & ML at Upland Software (keyword search to agentic search). **Previously:** Technical PM, AI & ML at Canaccede Financial (ML debt-recovery ranking) · Lead Product Manager at CTO Bees Inc. (formerly Data Naya).
 
 ## Work
 
