@@ -1,6 +1,5 @@
 # Sean McRae
 
-**I ship AI that is measured, explainable, and cheap enough to run.**
 
 Senior Product Manager for AI and data products in Toronto. 9+ years in product: agentic and RAG search, ML risk models in fintech, and the evaluation bars that keep AI features worth their cost. Open to PM and Senior PM roles on AI, search, data and platform products (Toronto or remote, Canada). Portfolio and résumé: [seanmcrae.github.io](https://seanmcrae.github.io/).
 
